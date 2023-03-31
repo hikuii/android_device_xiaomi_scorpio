@@ -29,6 +29,7 @@ DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/manifest.xml
 
 # Kernel
 TARGET_KERNEL_CONFIG += vendor/xiaomi/scorpio.config
+BOARD_KERNEL_CMDLINE += androidboot.selinux=permissive
 
 # Properties
 TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
