@@ -1,1 +1,1 @@
-require board=MSM8996|scorpio
+require board=MSM8996_A4|scorpio
