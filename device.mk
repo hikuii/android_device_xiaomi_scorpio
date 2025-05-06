@@ -33,7 +33,7 @@ PRODUCT_COPY_FILES += \
 
 # Consumer IR
 PRODUCT_PACKAGES += \
-    android.hardware.ir-service.xiaomi
+    android.hardware.ir-service.lineage
 
 # ConfigPanel
 PRODUCT_PACKAGES += \
